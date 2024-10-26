@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "16fjpeLEh+A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\strhzy\\source\\repos\\worktest\\worktest\\worktest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\strhzy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

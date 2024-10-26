@@ -1,0 +1,17 @@
+C:\Users\strhzy\source\repos\worktest\worktest\bin\Debug\net8.0\worktest.exe
+C:\Users\strhzy\source\repos\worktest\worktest\bin\Debug\net8.0\worktest.deps.json
+C:\Users\strhzy\source\repos\worktest\worktest\bin\Debug\net8.0\worktest.runtimeconfig.json
+C:\Users\strhzy\source\repos\worktest\worktest\bin\Debug\net8.0\worktest.dll
+C:\Users\strhzy\source\repos\worktest\worktest\bin\Debug\net8.0\worktest.pdb
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\worktest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\worktest.AssemblyInfoInputs.cache
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\worktest.AssemblyInfo.cs
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\worktest.csproj.CoreCompileInputs.cache
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\worktest.dll
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\refint\worktest.dll
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\worktest.pdb
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\worktest.genruntimeconfig.cache
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\ref\worktest.dll
+C:\Users\strhzy\source\repos\worktest\worktest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\worktest.csproj.AssemblyReference.cache
+C:\Users\strhzy\source\repos\worktest\worktest\obj\Debug\net8.0\worktest.csproj.Up2Date
